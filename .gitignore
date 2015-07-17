@@ -1,0 +1,14 @@
+### Eclipse ###
+.classpath
+.project
+*/.settings/*
+.pydevproject
+
+### Java ###
+.class
+**/target/
+**/thrift/service/*
+
+### Python ###
+**/generated-sources/*
+
