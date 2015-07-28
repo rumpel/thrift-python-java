@@ -1,3 +1,10 @@
+# Preparations
+
+1. Make sure [Apache Thrift](https://thrift.apache.org/docs/BuildingFromSource) is compiled and installed
+2. Install maven (`apt-get install mvn`) 
+
+# Running the server/client
+
 ## Run the Java server
 ``` 
 cd java-server-client
